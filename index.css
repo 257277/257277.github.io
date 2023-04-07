@@ -441,6 +441,13 @@ header.sticky {
     height: 100%;
 }
 
+.link {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
 /* --------------------------------------contact section style ------------------------------------------------- */
 
 #contact {
