@@ -746,14 +746,6 @@ form textarea {
         /* color: var(--text-color); */
     }
 
-    .navlist a:hover {
-        color: var(--main-color);
-    }
-
-    .navlist a.active {
-        color: var(--text-color);
-
-    }
 
     .navlist.open {
         top: 100%;
