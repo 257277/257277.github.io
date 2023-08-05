@@ -743,7 +743,7 @@ form textarea {
         margin: 17px;
         font-size: 20px;
         transition: all .45s ease;
-        color: var(--text-color);
+        /* color: var(--text-color); */
     }
 
     .navlist a:hover {
@@ -752,6 +752,7 @@ form textarea {
 
     .navlist a.active {
         color: var(--text-color);
+
     }
 
     .navlist.open {
